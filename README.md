@@ -64,6 +64,21 @@ Markelytics, a leading advertising analytics company, wanted to centralize its m
 
 ---
 
+## Dataset
+- Dataset includes **5 CSV files**:  
+  - **2 Fact Tables** – Marketing Performance, Conversions  
+  - **3 Dimension Tables** – Campaigns, Products, Customers  
+
+---
+
+## Tools & Technologies
+- **SQL** – For running queries and analysis  
+- **Python** – For loading data into SQL  
+- **Power BI** – For developing interactive dashboards for end users  
+- **GitHub** – For project version control and documentation  
+
+---
+
 ## Work Impact 🚀
 - **Time Savings & Efficiency –** Automated integration across campaigns, products, and geographies eliminated hours of manual reporting.  
 - **Smarter Budget Allocation –** Leadership can now instantly see which campaigns and products are profitable, redirecting spend to high-performing areas.  
