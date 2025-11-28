@@ -90,7 +90,7 @@ Markelytics, a leading advertising analytics company, wanted to centralize its m
 ---
 
 ## Dashboard
-👉 [Click here to explore the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWUyNWUwNWMtZjExZC00ODc5LTlkZTMtNzA2MGJhMjM4YTRhIiwidCI6IjAyMWQ0Njk0LTAwOGUtNGUyMy04NTc3LTViMGM1NGIxNTc1NCJ9)  
+👉 [Click here to explore the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzEwODYyOTYtNTZjYy00OTQ0LTkxOTMtM2VlMTBhY2ExY2U1IiwidCI6IjU4MTRmMDFlLTQ2OTgtNDkwNy1hZGZlLTMxZjI0MmZhOTA5OSJ9)  
 
 
 ---
